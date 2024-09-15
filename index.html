@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="shortcut icon"
+      href="img/favicon1.png"
+      type="image/x-icon"
+      width="72"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Furly Shop</title>
+  </head>
+  <body>
+    <header class="header" id="header">
+      <div class="container">
+        <a href="#" class="logo"></a>
+        <nav class="menu">
+          <ul class="menu-list">
+            <li class="menu-item">
+              <a href="" class="menu-link">New arrivals</a>
+            </li>
+            <li class="menu-item">
+              <a href="" class="menu-link">Bestsellers</a>
+            </li>
+            <li class="menu-item"><a href="" class="menu-link">Dresses</a></li>
+            <li class="menu-item">
+              <a href="" class="menu-link">Coats</a>
+            </li>
+          </ul>
+        </nav>
+        <ul class="header-icons">
+          <li class="header-item"><a href="" class="header-link enter"></a></li>
+          <li class="header-item"><a href="" class="header-link heart"></a></li>
+          <li class="header-item">
+            <a href="" class="header-link basket"></a>
+          </li>
+        </ul>
+      </div>
+    </header>
+
+    <main class="main">
+      <section class="filter">
+        <div class="container">
+          <h1>Women's Clothing</h1>
+          <form action="#" method="get" class="filters-form"></form>
+        </div>
+      </section>
+
+      <section class="cards">
+        <h2 class="visually-hidden">Catalog</h2>
+        <ul class="container cards-list"></ul>
+        <button class="load-more">Load more</button>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="logo-block">
+          <a href="#header" class="logo"></a>
+          <p>Furly &copy; <span id="year">2024</span>All rights reserved</p>
+          <p>Privacy policy</p>
+        </div>
+
+        <ul class="footer-contacts flex-column">
+          <li class="footer-contact-item">
+            <a href="tel:+1234568910">+12345678910</a>
+          </li>
+          <li class="footer-contact-item">
+            <a href="mailto:furly@furly.com">furly@furly.com</a>
+          </li>
+          <li class="footer-contact-item">
+            <ul class="footer-social-list">
+              <li class="footer-social-item">
+                <a href="" class="footer-social-link facebook"></a>
+              </li>
+              <li class="footer-social-item">
+                <a href="" class="footer-social-link twitter"></a>
+              </li>
+              <li class="footer-social-item">
+                <a href="" class="footer-social-link instagram"></a>
+              </li>
+              <li class="footer-social-item">
+                <a href="" class="footer-social-link pinterest"></a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+
+        <ul class="flex-column">
+          <li><a href="#">Payment and delivery</a></li>
+          <li><a href="#">Refund</a></li>
+          <li><a href="#">Track the order</a></li>
+        </ul>
+
+        <div class="footer-form">
+          <label for="subscribe" class="footer-label"
+            >Subscribe to our newsletter</label
+          >
+          <input
+            type="email"
+            name="subscribe"
+            id="subscribe"
+            class="footer-input"
+            placeholder="example@email.com"
+          />
+          <button id="subscribe-btn" class="subscribe-btn">&rarr;</button>
+        </div>
+      </div>
+    </footer>
+    <script src="script.js" type="module"></script>
+  </body>
+</html>

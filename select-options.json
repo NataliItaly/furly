@@ -1,0 +1,22 @@
+[
+  {
+    "name": "categories",
+    "options": ["all", "dresses", "coats", "sweaters"]
+  },
+  {
+    "name": "brand",
+    "options": ["all", "duon", "flax", "ornament", "sad autumn", "thunder"]
+  },
+  {
+    "name": "collection",
+    "options": ["all", "beige", "gray", "black", "sand"]
+  },
+  {
+    "name": "popularity",
+    "options": ["all", "more", "less"]
+  },
+  {
+    "name": "price",
+    "options": ["all", "more", "less"]
+  }
+]

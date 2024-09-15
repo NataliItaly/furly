@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Dress Spring",
+    "price": "45",
+    "brand": "flax",
+    "categories": "dresses",
+    "collection": "gray",
+    "popularity": "3"
+  },
+  {
+    "name": "Suite Beige",
+    "price": "85",
+    "brand": "thunder",
+    "categories": "suites",
+    "collection": "beige",
+    "popularity": "4"
+  },
+  {
+    "name": "Jeans Dress Pink",
+    "price": "65",
+    "brand": "duon",
+    "categories": "dresses",
+    "collection": "beige",
+    "popularity": "5"
+  },
+  {
+    "name": "Hoodies Sand",
+    "price": "35",
+    "brand": "sad autumn",
+    "categories": "sweaters",
+    "collection": "sand",
+    "popularity": "2"
+  },
+  {
+    "name": "Hoodies Beige",
+    "price": "30",
+    "brand": "sad autumn",
+    "categories": "sweaters",
+    "collection": "beige",
+    "popularity": "3"
+  },
+  {
+    "name": "Combination Dress Black",
+    "price": "60",
+    "brand": "thunder",
+    "categories": "dresses",
+    "collection": "black",
+    "popularity": "5"
+  },
+  {
+    "name": "Trench Coat Autumn",
+    "price": "120",
+    "brand": "sad autumn",
+    "categories": "coats",
+    "collection": "sand",
+    "popularity": "4"
+  },
+  {
+    "name": "Suite Gray",
+    "price": "90",
+    "brand": "thunder",
+    "categories": "suites",
+    "collection": "gray",
+    "popularity": "5"
+  },
+  {
+    "name": "Dress Ornament",
+    "price": "45",
+    "brand": "ornament",
+    "categories": "dresses",
+    "collection": "gray",
+    "popularity": "2"
+  },
+  {
+    "name": "Coat Thunder",
+    "price": "100",
+    "brand": "thunder",
+    "categories": "coats",
+    "collection": "gray",
+    "popularity": "2"
+  },
+  {
+    "name": "Jacket Duon",
+    "price": "75",
+    "brand": "duon",
+    "categories": "coats",
+    "collection": "beige",
+    "popularity": "5"
+  },
+  {
+    "name": "Coat Flax",
+    "price": "135",
+    "brand": "flax",
+    "categories": "coats",
+    "collection": "sand",
+    "popularity": "4"
+  }
+]
